@@ -27,6 +27,24 @@ $ pipenv shell
 $ jupyter lab
 ```
 
+## Project Dependencies
+
+The project requires the following libraries:
+
+- jupyterlab
+- requests
+- scikit-learn
+- pandas
+- matplotlib
+- altair
+- scipy
+
+For a detailed dependency graph run the following command.
+
+```bash
+pipenv graph
+```
+
 # Case Study Overview
 
 ### Data Set Information
