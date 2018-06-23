@@ -11,6 +11,7 @@ pandas = "*"
 matplotlib = "*"
 altair = "*"
 scipy = "*"
+tqdm = "*"
 
 [dev-packages]
 
