@@ -16,6 +16,8 @@ This project is structured as follows:
 
 This project makes use of pipenv to manage dependencies and virtual environments. All data is stored in the data subfolder however the raw data files are excluded from the repository. The data required in this project is downloaded in the [case-study notebook](./case-study.ipynb).
 
+The accompanying presentation can be found [here](https://slides.com/bradleystuartkirton/deck-1#/).
+
 # Getting Started
 
 To get started just clone the repository and install the project dependencies with pipenv. If you don't already have pipenv installed check out the [official docs](https://docs.pipenv.org/) for details on installation.
