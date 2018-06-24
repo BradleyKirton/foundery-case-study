@@ -8,6 +8,7 @@ This project is structured as follows:
 
 - foundery-case-study/
   - [data](./data/)
+  - [img](./img/)
   - [case-study.ipynb](./case-study.ipynb)
   - [Pipfile](./Pipfile)
   - [Pipfile.lock](./Pipfile.lock)
